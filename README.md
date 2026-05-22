@@ -422,7 +422,7 @@ Check troubleshooting section
 
 Open an issue on GitHub
 
-Contact: your-email@example.com
+Contact: atiqurrehman.com
 
 🎯 Roadmap
 Version 2.0 Planned Features
