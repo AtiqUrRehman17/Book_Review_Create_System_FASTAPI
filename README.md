@@ -422,7 +422,7 @@ Check troubleshooting section
 
 Open an issue on GitHub
 
-Contact: atiqurrehman.com
+Contact: atiqurrehmandatascientist@gmail.com
 
 🎯 Roadmap
 Version 2.0 Planned Features
